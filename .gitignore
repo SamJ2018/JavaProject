@@ -9,3 +9,6 @@ out
 gen
 target
 node_modules
+package-lock.json
+src/main/java/com/cys/crud/utils/
+src/main/webapp/static/css/
